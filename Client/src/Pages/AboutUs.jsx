@@ -15,18 +15,18 @@ const AboutUs = () =>{
 						<div className="card1">
 							<div className="content1">
 								<div className="imgBx">
-									<img src="https://media-exp1.licdn.com/dms/image/D4D03AQH6z_Uka70o8Q/profile-displayphoto-shrink_800_800/0/1665843918620?e=1671062400&v=beta&t=32lxzMKm_TNoONOLckvESwJ1la0qTIfWwVkqt0Wbqog" />
+									<img src="https://media.licdn.com/dms/image/D5603AQHNz3rRz2MFlw/profile-displayphoto-shrink_800_800/0/1634999657804?e=1703721600&v=beta&t=7leRqNF7ms9sutONZA8Zp2IW5TKFT5zD-6_hoCHir4A" />
 								</div>
 								<div className="contentBx">
-									<h3>Aniket Patel<p>Front-end developer</p></h3>
+									<h3>Murli Patel<p>Front-end developer</p></h3>
 								</div>
 							</div>
 							<ul className="sci">
 								<li>
-									<a href="">Github</a>
+									<a href="https://github.com/murlipatel1">Github</a>
 								</li>
 								<li>
-									<a href="http://www.linkedin.com/in/aniket-patel-developer">Linkedin</a>
+									<a href="https://www.linkedin.com/in/murli-patel-193605224/">Linkedin</a>
 								</li>
 							</ul>
 						</div>
@@ -34,18 +34,18 @@ const AboutUs = () =>{
 						<div className="card1">
 							<div className="content1">
 								<div className="imgBx">
-									<img src="https://media-exp1.licdn.com/dms/image/D5603AQFAXB1R3JqoEQ/profile-displayphoto-shrink_800_800/0/1665808900955?e=1671062400&v=beta&t=3ZZtESjMmShRMpQe51FyWQS16NXoqmL_42sC6e_lrNs" />
+									<img src="https://media.licdn.com/dms/image/D5603AQHNz3rRz2MFlw/profile-displayphoto-shrink_800_800/0/1634999657804?e=1703721600&v=beta&t=7leRqNF7ms9sutONZA8Zp2IW5TKFT5zD-6_hoCHir4A" />
 								</div>
 								<div className="contentBx">
-									<h3>Karan Dattani<p>Front-end developer</p></h3>
+									<h3>Murli Patel<p>Front-end developer</p></h3>
 								</div>
 							</div>
 							<ul className="sci">
 								<li>
-									<a href="https://github.com/karan030204">Github</a>
+									<a href="https://github.com/murlipatel1">Github</a>
 								</li>
 								<li>
-									<a href="https://www.linkedin.com/in/karan-dattani-b58834243/">Linkedin</a>
+									<a href="https://www.linkedin.com/in/murli-patel-193605224/">Linkedin</a>
 								</li>
 							</ul>
 						</div>
@@ -54,18 +54,18 @@ const AboutUs = () =>{
 						<div className="card1">
 							<div className="content1">
 								<div className="imgBx">
-									<img src="https://media-exp1.licdn.com/dms/image/C4E03AQGLjrN5gw9v8A/profile-displayphoto-shrink_800_800/0/1662739671886?e=1671062400&v=beta&t=Tmw83dUZ7jjCDmbVa0oC3bdQSSM2Vu7ptjvjoOKOdHI" />
+									<img src="https://media.licdn.com/dms/image/D5603AQHNz3rRz2MFlw/profile-displayphoto-shrink_800_800/0/1634999657804?e=1703721600&v=beta&t=7leRqNF7ms9sutONZA8Zp2IW5TKFT5zD-6_hoCHir4A" />
 								</div>
 								<div className="contentBx">
-									<h3>Priyank Vaidya<p>Back-end developer</p></h3>
+									<h3>Murli Patel<p>Back-end developer</p></h3>
 								</div>
 							</div>
 							<ul className="sci">
 								<li>
-									<a href="https://github.com/Priyank-Vaidya">Github</a>
+									<a href="https://github.com/murlipatel1">Github</a>
 								</li>
 								<li>
-									<a href="https://www.linkedin.com/in/priyank-vaidya-0a5b38203/">Linkedin</a>
+									<a href="https://www.linkedin.com/in/murli-patel-193605224/">Linkedin</a>
 								</li>
 							</ul>
 						</div>
@@ -74,7 +74,7 @@ const AboutUs = () =>{
 						<div className="card1">
 							<div className="content1">
 								<div className="imgBx">
-									<img src="https://media-exp1.licdn.com/dms/image/D5603AQHNz3rRz2MFlw/profile-displayphoto-shrink_800_800/0/1634999657804?e=1671062400&v=beta&t=2ufc9ICOxDX6D0VUAC_LBNx4SY3y1MzAM-r7uDUcrm4" />
+									<img src="https://media.licdn.com/dms/image/D5603AQHNz3rRz2MFlw/profile-displayphoto-shrink_800_800/0/1634999657804?e=1703721600&v=beta&t=7leRqNF7ms9sutONZA8Zp2IW5TKFT5zD-6_hoCHir4A" />
 								</div>
 								<div className="contentBx">
 									<h3>Murli Patel<p>Back-end developer</p></h3>
@@ -94,22 +94,21 @@ const AboutUs = () =>{
 						<div className="card1">
 							<div className="content1">
 								<div className="imgBx">
-									<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHqTlyvG6jBrQ/profile-displayphoto-shrink_800_800/0/1637555905242?e=1671062400&v=beta&t=hb5AbJR0f3YDmE_vVxrenXp36s3GgtyDg3rpPDPpjKQ" />
+									<img src="https://media.licdn.com/dms/image/D5603AQHNz3rRz2MFlw/profile-displayphoto-shrink_800_800/0/1634999657804?e=1703721600&v=beta&t=7leRqNF7ms9sutONZA8Zp2IW5TKFT5zD-6_hoCHir4A" />
 								</div>
 								<div className="contentBx">
-									<h3>Parth Sood<p>Data-base</p></h3>
+									<h3>Murli Patel<p>Data-base</p></h3>
 								</div>
 							</div>
 							<ul className="sci">
 								<li>
-									<a href="https://github.com/psood708">Github</a>
+									<a href="https://github.com/murlipatel1">Github</a>
 								</li>
 								<li>
-									<a href="https://www.linkedin.com/in/parth-sood-572b1b1a1/">Linkedin</a>
+									<a href="https://www.linkedin.com/in/murli-patel-193605224/">Linkedin</a>
 								</li>
 							</ul>
-							</div>
-							
+							</div>		
 						
 				</div>
 			</div>	

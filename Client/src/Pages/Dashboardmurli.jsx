@@ -1,7 +1,7 @@
 import React, { useState ,useEffect } from 'react';
 import ProductInfo from '../Elements/productInfo';
 import SideBar from '../Elements/SideBar';
-import './murli.css';
+import './Dashboardmurli.css';
 
 const Dashboardmurli = () => {
     const [stock_id, setstock_id] = useState('');
