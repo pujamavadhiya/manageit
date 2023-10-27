@@ -1,0 +1,44 @@
+[
+    
+    {   
+        "ProductName" : "Milk",
+        "ProductID" : "19YTC36",
+        "Quantity": "65",
+        "Status": "In-Stock",
+        "Expiry" : "50 Days",
+        "Location" : "Warehouse 3, Batch 8"
+    },
+    {   
+        "ProductName" : "Chips",
+        "ProductID" : "19YTC36",
+        "Quantity": "65",
+        "Status": "In-Stock",
+        "Expiry" : "50 Days",
+        "Location" : "Warehouse 3, Batch 8"
+    },
+    {   
+        "ProductName" : "Murmura",
+        "ProductID" : "19YTC36",
+        "Quantity": "65",
+        "Status": "In-Stock",
+        "Expiry" : "50 Days",
+        "Location" : "Warehouse 3, Batch 8"
+    },
+    {   
+        "ProductName" : "Pickle",
+        "ProductID" : "19YTC36",
+        "Quantity": "65",
+        "Status": "In-Stock",
+        "Expiry" : "50 Days",
+        "Location" : "Warehouse 3, Batch 8"
+    },
+    {   
+        "ProductName" : "Poppins",
+        "ProductID" : "19YTC36",
+        "Quantity": "65",
+        "Status": "In-Stock",
+        "Expiry" : "50 Days",
+        "Location" : "Warehouse 3, Batch 8"
+    }   
+
+]
